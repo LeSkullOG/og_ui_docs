@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="OG UI">
+  <rect width="96" height="96" rx="20" fill="#111318"/>
+  <path d="M20 52c0-18 12-30 28-30s28 12 28 30-12 30-28 30-28-12-28-30Z" fill="none" stroke="#c99b36" stroke-width="7"/>
+  <path d="M48 34h22v10H58v8h10v10H58v16H48V34Z" fill="#e3b756"/>
+</svg>
