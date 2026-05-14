@@ -1,0 +1,1 @@
+import{_ as i,o as t,c as a,ag as e}from"./chunks/framework.DOFsFYyS.js";const E=JSON.parse('{"title":"Grid UI","description":"","frontmatter":{},"headers":[],"relativePath":"grid.md","filePath":"grid.md"}'),n={name:"grid.md"};function d(l,s,h,p,k,r){return t(),a("div",null,[...s[0]||(s[0]=[e("",10)])])}const c=i(n,[["render",d]]);export{E as __pageData,c as default};

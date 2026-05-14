@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,ag as t}from"./chunks/framework.DOFsFYyS.js";const g=JSON.parse('{"title":"Menus & Dialogs","description":"","frontmatter":{},"headers":[],"relativePath":"menus.md","filePath":"menus.md"}'),h={name:"menus.md"};function l(k,s,p,e,E,d){return a(),n("div",null,[...s[0]||(s[0]=[t("",27)])])}const y=i(h,[["render",l]]);export{g as __pageData,y as default};

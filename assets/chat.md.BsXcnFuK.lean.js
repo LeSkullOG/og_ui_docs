@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,ag as t}from"./chunks/framework.DOFsFYyS.js";const g=JSON.parse('{"title":"Chat Skin","description":"","frontmatter":{},"headers":[],"relativePath":"chat.md","filePath":"chat.md"}'),h={name:"chat.md"};function e(l,s,p,k,d,E){return a(),n("div",null,[...s[0]||(s[0]=[t("",26)])])}const o=i(h,[["render",e]]);export{g as __pageData,o as default};
